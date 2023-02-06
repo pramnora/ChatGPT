@@ -7,7 +7,7 @@ Updated: Mon 6th Feb 2023 00:02 AM GMT
 -----
 
 I went and joined...
-- https://www.openai.com
+- https://www.openai.com  
 ...in order to test out using the 'latest' AI-Artificial Intelligence program called: ChatGPT.
 
 I heard that the bot is trained on 'billions' of lines of code...so, I just wanted to find out if what they are saying is true.  
@@ -19,4 +19,13 @@ Well, very much to my own surprise -(you never really know until you've gone and
 everything they said 'is' true. 
 
 The first thing I told it was to create a 12 x Tables program using QBASIC;     
-and, sure enough, the code it automatically spat out was both 'copy and paste' runnable...; with code syntax all correct.  
+and, sure enough, the code it automatically spat out was both 'copy and paste' runnable...;   
+with code syntax all correct.  
+
+Wow! It really would appear that us 'programmers' are no longer needed, anymore;    
+as even a 'non-programmer' can make a request to an AI bot...;  
+- create a HTML web page  
+- create a QBASIC program  
+- etc.  
+...and, immediately, straight away...the bot will simply do all of the coding for you;    
+all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...all done!  
