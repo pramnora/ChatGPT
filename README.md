@@ -10,7 +10,9 @@ I went and joined...
 - https://www.openai.com  
 ...in order to test out using the 'latest' AI-Artificial Intelligence program called: ChatGPT.
 
-I heard that the bot is trained on 'billions' of lines of code...so, I just wanted to find out if what they are saying is true.  
+I heard that the bot is trained on 'billions' of lines of code...;    
+so, I just wanted to find out if all that they are saying about it is true...;  
+that even people who are 'non programmers' can use it to create effective programs for themselves.    
 
 Apparently, you merely state what sort of program code it is you want...;   
 and, the bot, quite simply, spouts out that code...as easy and straight forwards as that...?!  
