@@ -10,6 +10,8 @@ I went and joined...
 - https://www.openai.com  
 ...in order to test out using the 'latest' AI-Artificial Intelligence program called: ChatGPT.
 
+- https://chat.openai.com/chat  
+
 I heard that the bot is trained on 'billions' of lines of code...;    
 so, I just wanted to find out if all that they are saying about it is true...;  
 that even people who are 'non programmers' can use it to create effective programs for themselves.    
@@ -30,4 +32,5 @@ as even a 'non-programmer' can make a request to an AI bot...;
 - create a QBASIC program  
 - etc.  
 ...and, immediately, straight away...the bot will simply do all of the coding for you;    
-all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...and, all done/finished!  
+all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...; coding job all done/finished;
+furthermore, it does all of this code creation in around a second or so...depending on how complex the question you ask is.  
