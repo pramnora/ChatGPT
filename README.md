@@ -30,4 +30,4 @@ as even a 'non-programmer' can make a request to an AI bot...;
 - create a QBASIC program  
 - etc.  
 ...and, immediately, straight away...the bot will simply do all of the coding for you;    
-all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...all done!  
+all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...and, all done/finished!  
