@@ -29,7 +29,7 @@ with code syntax all correct.
 Wow! It really would appear that us 'programmers' are no longer needed, anymore;    
 as even a 'non-programmer' can make a request to an AI bot...;  
 - create a HTML web page  
-- create a QBASIC program  
+- create a QBASIC 12 x tables program  
 - etc.  
 ...and, immediately, straight away...the bot will simply do all of the coding for you;    
 all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...; coding job all done/finished;
