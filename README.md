@@ -34,4 +34,6 @@ as even a 'non-programmer' can make a request to an AI bot...;
 ...and, immediately, straight away...the bot will simply do all of the coding for you;    
 all you as the AI user needs to do is to merely 'copy and paste'...then, hit run...; coding job all done/finished;  
 furthermore, it does all of this code creation in around a second or so...  
-depending on how complex the question is that you were try and to ask it.  
+depending on how complex the question is that you were trying to ask it:    
+- write me a web page  
+- write me a web page program using: HTML/CSS/Javascript  
